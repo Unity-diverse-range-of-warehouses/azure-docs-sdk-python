@@ -1,0 +1,31 @@
+{
+  "Name": "azure-mgmt-computelimit",
+  "Version": "1.0.0a20251124001",
+  "DevVersion": "1.0.0a20251124001",
+  "DirectoryPath": "sdk/computelimit/azure-mgmt-computelimit",
+  "ServiceDirectory": "computelimit",
+  "ReadMePath": "sdk/computelimit/azure-mgmt-computelimit/README.md",
+  "ChangeLogPath": "sdk/computelimit/azure-mgmt-computelimit/CHANGELOG.md",
+  "Group": null,
+  "SdkType": "mgmt",
+  "IsNewSdk": true,
+  "ArtifactName": "azure-mgmt-computelimit",
+  "ReleaseStatus": "2025-11-14",
+  "IncludedForValidation": false,
+  "AdditionalValidationPackages": [
+    ""
+  ],
+  "ArtifactDetails": {
+    "name": "azure-mgmt-computelimit",
+    "triggeringPaths": [
+      "/sdk/computelimit/ci.yml"
+    ],
+    "safeName": "azuremgmtcomputelimit"
+  },
+  "CIParameters": {
+    "CIMatrixConfigs": []
+  },
+  "Namespaces": [
+    "azure.mgmt.computelimit"
+  ]
+}
