@@ -1,7 +1,7 @@
 {
   "Name": "azure-mgmt-communication",
-  "Version": "2.1.0a20251125001",
-  "DevVersion": "2.1.0a20251125001",
+  "Version": "2.1.0a20251125002",
+  "DevVersion": "2.1.0a20251125002",
   "DirectoryPath": "sdk/communication/azure-mgmt-communication",
   "ServiceDirectory": "communication",
   "ReadMePath": "sdk/communication/azure-mgmt-communication/README.md",
@@ -16,11 +16,11 @@
     ""
   ],
   "ArtifactDetails": {
+    "name": "azure-mgmt-communication",
+    "safeName": "azuremgmtcommunication",
     "triggeringPaths": [
       "/sdk/communication/ci.yml"
-    ],
-    "safeName": "azuremgmtcommunication",
-    "name": "azure-mgmt-communication"
+    ]
   },
   "CIParameters": {
     "CIMatrixConfigs": []
