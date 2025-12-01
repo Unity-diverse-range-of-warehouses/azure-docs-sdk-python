@@ -1,7 +1,7 @@
 {
   "Name": "azure-ai-voicelive",
-  "Version": "1.2.0b2",
-  "DevVersion": null,
+  "Version": "1.2.0a20251201001",
+  "DevVersion": "1.2.0a20251201001",
   "DirectoryPath": "sdk/ai/azure-ai-voicelive",
   "ServiceDirectory": "ai",
   "ReadMePath": "sdk/ai/azure-ai-voicelive/README.md",
@@ -25,8 +25,8 @@
   "CIParameters": {
     "CIMatrixConfigs": [
       {
-        "Path": "sdk/ai/platform-matrix.json",
         "GenerateVMJobs": true,
+        "Path": "sdk/ai/platform-matrix.json",
         "Selection": "sparse",
         "Name": "communication_ci_matrix"
       }
