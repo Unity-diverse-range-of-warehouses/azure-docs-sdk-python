@@ -1,7 +1,7 @@
 {
   "Name": "azure-mgmt-storagesync",
-  "Version": "2.0.0a20251201005",
-  "DevVersion": "2.0.0a20251201005",
+  "Version": "2.0.0a20251201004",
+  "DevVersion": "2.0.0a20251201004",
   "DirectoryPath": "sdk/storage/azure-mgmt-storagesync",
   "ServiceDirectory": "storage",
   "ReadMePath": "sdk/storage/azure-mgmt-storagesync/README.md",
@@ -16,11 +16,11 @@
     ""
   ],
   "ArtifactDetails": {
+    "safeName": "azuremgmtstoragesync",
     "name": "azure-mgmt-storagesync",
     "triggeringPaths": [
       "/sdk/storage/ci.yml"
-    ],
-    "safeName": "azuremgmtstoragesync"
+    ]
   },
   "CIParameters": {
     "CIMatrixConfigs": []

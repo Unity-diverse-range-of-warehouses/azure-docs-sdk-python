@@ -1,7 +1,7 @@
 {
   "Name": "azure-mgmt-storage",
-  "Version": "24.0.0a20251201005",
-  "DevVersion": "24.0.0a20251201005",
+  "Version": "24.0.0a20251201004",
+  "DevVersion": "24.0.0a20251201004",
   "DirectoryPath": "sdk/storage/azure-mgmt-storage",
   "ServiceDirectory": "storage",
   "ReadMePath": "sdk/storage/azure-mgmt-storage/README.md",
@@ -16,11 +16,11 @@
     ""
   ],
   "ArtifactDetails": {
+    "safeName": "azuremgmtstorage",
     "name": "azure-mgmt-storage",
     "triggeringPaths": [
       "/sdk/storage/ci.yml"
-    ],
-    "safeName": "azuremgmtstorage"
+    ]
   },
   "CIParameters": {
     "CIMatrixConfigs": []
